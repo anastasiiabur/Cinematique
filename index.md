@@ -1,4 +1,4 @@
-<img src="logo.png" width="100" height="100"> [Film](film)|[Série](série)|[Court-métrage](court-métrage)
+<img src="logo.png" width="100" height="100"> [Films](film)|[Séries](série)|[Courts-métrages](court-métrage)
 
 # Bienvenue sur *Cinématique*
 
