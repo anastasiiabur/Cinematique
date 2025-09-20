@@ -5,11 +5,9 @@
 
 ## Bienvenue sur CinéScope 🍿
 
-Venez découvrir un nouveau monde du cinéma. Ici, nous explorons des films, des séries et des courts-métrages avec passion et curiosité. 
+Vous ne savez pas quoi regarder pour une *soirée cosy* ou un *moment détente* ? Vous avez peur de tomber sur un film ou une série qui ne vous plaira pas ?
 
-Vous êtes libres de partager vos critiques hônettes, à découvrir des œuvres qui méritent votre regard, qu’elles soient incontournables ou plus confidentielles.
-Que vous soyez cinéphile averti ou simple amateur en quête de nouvelles inspirations, Cinématique vous accompagne dans vos choix et nourrit vos discussions autour de l’écran.
-
+Ici, chacun peut partager son avis ! Découvrez des critiques, recommandations et coups de cœur rédigés par d’autres passionnés de cinéma. Films, séries, courts-métrages… ce blog est un espace d’échange pour explorer ensemble tout **l’univers du 7ᵉ art**. Que vous soyez cinéphile·e·s passionné·e·s ou spectateur·rice·s occasionnel·le·s, vous trouverez de quoi nourrir votre curiosité et enrichir vos soirées. 
 <br>
 
 ---
@@ -20,8 +18,8 @@ Que vous soyez cinéphile averti ou simple amateur en quête de nouvelles inspir
 ### ★★★★★ - Exceptionnel !
 <img src="images/Interstellar.jpg" alt="Interstellar" width="250px">
 
-##### Lorem ipsum !
-Enim dolor tempus sit sed euismod bibendum magna eros tristique quisque suspendisse nisl et commodo felis phasellus facilisis tristique felis adipiscing metus quis tristique hendrerit...
+##### Se regarde d'un trait !
+Un voyage cinématographique qui dépasse l’écran. Christopher Nolan signe une œuvre...
 
 [Voir plus →](film.md#les-films-)
 <br>
