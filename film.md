@@ -17,7 +17,7 @@ Interstellar n’est pas seulement un film de science-fiction : c’est une réf
 > "We used to look up at the sky and wonder at our place in the stars. Now we just look down, and worry about our place in the dirt. — Cooper"
 
 Cette phrase résume à elle seule la grandeur et la mélancolie du film : une invitation à élargir notre regard, à ne pas oublier que nous faisons partie de quelque chose de plus vaste.
-###### Avis de Stfbri ✒️
+###### Écrit par Stfbri ✒️
 
 ---
 
@@ -35,14 +35,35 @@ Ce que j'ai aimé:
 - **La bande-son et le réalisme sonore :** moteurs, musique de Zimmer, ambiance qui vibre.
 - Et **Accessibilité :** même sans être fan de F1, le film se savoure pleinement.
 
-###### Avis de Amicale ✒️
+###### Écrit par Amicale ✒️
 
 ---
 
 ## Léon
 ### ★★★☆☆ - Pas mauvais !
-<img scr="images/Leon.webp" alt="Leon" width="250px">
+<img scr="images/Leon.webp" alt="Interstellar" width="250px">
 
+##### Touchant !
+Un film culte de Luc Besson, à la fois atypique et profondément touchant. La relation entre Léon, tueur à gages solitaire incarné par Jean Reno, et Mathilda, jouée par une jeune Natalie Portman éblouissante, est le cœur du récit. On est bouleversé par cette tendresse inattendue entre deux êtres abîmés par la vie.
+
+Cependant, si l’émotion est bien présente, le rythme peut parfois sembler inégal, et certains aspects de la mise en scène paraissent aujourd’hui datés. Malgré cela, Léon reste une œuvre marquante, pleine de sensibilité et de poésie urbaine.
+
+> "He moves without sound. Kills without emotion. Disappears without trace."
+
+###### Ecrit par Mat_cool ✒️
+
+## Flow
+### ★★★★★ - Exceptionnel !
+<img src="images/flow.jpg" alt="Interstellar" width="250px">
+
+##### Époustouflant !
+
+Même si c'est un film d'animation, il reste très profond dans mes yeux ! *Flow* m’a profondément touché par sa manière de raconter une histoire émouvante sans utiliser de dialogues. Chaque image est un véritable tableau, et l’univers aquatique dans lequel évoluent le chat et ses compagnons est à la fois fascinant et poétique. Les personnages sont attachants, et leurs aventures m’ont fait réfléchir sur la résilience, l’amitié et la solidarité. Une œuvre d’animation qui dépasse le simple divertissement et laisse une impression durable.
+
+> "En regardant, j'ai ressenti toutes les émotions possibles : la tristesse avec des larmes, le sourire et les frissons ! Ça vaut mille fois plus d'étoiles que 5."
+
+###### Écrit par Nastiabur ✒️
 
 ---
+
 *© 2025 CinéScope - Fait avec passion pour les cinéphiles* 🍿
