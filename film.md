@@ -41,7 +41,7 @@ Ce que j'ai aimé:
 
 ## Léon
 ### ★★★☆☆ - Pas mauvais !
-<img scr="images/Le╠üon.webp" alt="Interstellar" width="250px">
+<img scr="images/Leon.webp" alt="Leon" width="250px">
 
 
 ---
