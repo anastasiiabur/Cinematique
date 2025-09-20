@@ -1,6 +1,7 @@
 # 🎬 CinéScope
 | [🏠 Accueil](index.md) | [🎥 Films](film.md) | [📺 Séries](serie.md) | [🎞️ Courts-métrages](court-metrage.md) |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:| 
+
 ---
 
 ## Bienvenue sur CinéScope 🍿
