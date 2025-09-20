@@ -31,6 +31,24 @@ Leur duo improbable donne lieu à des enquêtes à la fois captivantes et hilara
 ### ★★★★☆ - Intéressant !
 <img src="images/himym.jpg" alt="Castle" width="250px">
 
-##### 
+##### Peu à la mode aujourd’hui, mais toujours aussi géniale !
+*How I Met Your Mother* est une série qui ne fait peut-être plus autant parler d’elle, mais elle reste un vrai bijou. Les aventures de Ted, Robin, Barney, Marshall et Lily mêlent humour, émotions et situations absurdes dans un New York à la fois réaliste et charmant. Chaque épisode offre des dialogues mémorables, des moments hilarants et parfois touchants, prouvant que cette comédie a su traverser le temps avec brio.
 
+###### Écrit par Emi_live
+---
+
+## Agents of S.H.I.E.L.D.
+### ★★★★★ - Exceptionnel !
+<img src="images/shield.webp" alt="Castle" width="250px">
+
+##### Une série qui redéfinit l’univers Marvel !
+Avec ses intrigues intelligemment tissées, ses personnages profondément humains et son lien organique avec l’univers Marvel au cinéma, elle offre une expérience à la fois divertissante et émotionnellement riche.
+
+Chaque saison se réinvente, tout en restant fidèle à son ADN : suspense, action et une vraie humanité derrière les costumes et les gadgets.
+
+Enfin, la réalisation, les effets spéciaux et la bande-son sont impeccables et contribuent à créer une ambiance immersive qui rivalise avec certaines productions cinématographiques. Pour les fans de Marvel comme pour les novices, Agent of S.H.I.E.L.D. est un incontournable qui mérite amplement un 5/5.
+
+###### Écrit par marvelov 
+
+---
 *© 2025 CinéScope - Fait avec passion pour les cinéphiles* 🍿
