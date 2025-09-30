@@ -23,7 +23,7 @@ Cette phrase résume à elle seule la grandeur et la mélancolie du film : une i
 
 ## F1
 ### ★★★★☆ - Intéressant !
-<img src="images/F1.webp" alt="Interstellar" width="250px">
+<img src="images/F1.webp" alt="F1" width="250px">
 
 ##### Le film rempli de vitesse !
 Joseph Kosinski signe avec F1 un spectacle à la hauteur de son ambition : spectaculaire, immersif et chargé d’adrénaline. Les courses sont filmées avec une intensité rare : chaque virage, chaque freinage, chaque dépassement vous plonge au cœur de la Formule 1.
@@ -41,7 +41,7 @@ Ce que j'ai aimé:
 
 ## Léon
 ### ★★★☆☆ - Pas mauvais !
-<img src="images/Leon.webp" alt="Interstellar" width="250px">
+<img src="images/Leon.webp" alt="Léon" width="250px">
 
 ##### Touchant !
 Un film culte de Luc Besson, à la fois atypique et profondément touchant. La relation entre Léon, tueur à gages solitaire incarné par Jean Reno, et Mathilda, jouée par une jeune Natalie Portman éblouissante, est le cœur du récit. On est bouleversé par cette tendresse inattendue entre deux êtres abîmés par la vie.
@@ -54,7 +54,7 @@ Cependant, si l’émotion est bien présente, le rythme peut parfois sembler in
 
 ## Flow
 ### ★★★★★ - Exceptionnel !
-<img src="images/flow.jpg" alt="Interstellar" width="250px">
+<img src="images/flow.jpg" alt="Flow" width="250px">
 
 ##### Époustouflant !
 
