@@ -2,7 +2,7 @@
 | [🏠 Accueil](index.md) | [🎥 Films](film.md) | [📺 Séries](série.md) | [🎞️ Courts-métrages](court-métrage.md) |
 |:---:|:---:|:---:|:---:|
 ---
-<table border="1" style="border-collapse: collapse; ">
+<table border="1" style="border-collapse: collapse; border-color: transparent;">
     <tr>
       <td style="border: 1px solid #d1d9e0;"><a href="index.md" style="color: black">🏠 Accueil</a></td>
       <td style="border: 1px solid #d1d9e0;"><a href="film.md" style="color: black">🎥 Films</a></td>
