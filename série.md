@@ -14,7 +14,7 @@
 
 Leur duo improbable donne lieu à des enquêtes à la fois captivantes et hilarantes. Chaque épisode nous plonge dans une nouvelle scène de crime, toujours pleine de surprises. Si vous aimez les séries policières avec une touche d’humour et de romance, et que vous avez envie de découvrir qui est le meurtrier tout en suivant l’évolution de leurs personnages, Castle est un incontournable !
 
-###### Écrit par Enola_29
+###### Écrit par Enola_29 ✒️
 ---
 
 ## House of the Dragon
@@ -24,7 +24,7 @@ Leur duo improbable donne lieu à des enquêtes à la fois captivantes et hilara
 ##### Le monde que tu voudras qu'il soit réel !
 *House of the Dragon* nous transporte dans un univers ancien, où châteaux majestueux, paysages féodaux et intrigues royales créent un charme irrésistible. Chaque épisode nous plonge au cœur de ce monde riche et détaillé, où pouvoir, trahison et passion se mêlent avec intensité. Si vous rêvez d’un univers à la fois historique et fantastique, cette série est un véritable bijou : captivante, spectaculaire et totalement immersive.
 
-###### Écrit par Stevy
+###### Écrit par Stevy ✒️
 ---
 
 ## How I Met Your Mother 
@@ -34,7 +34,7 @@ Leur duo improbable donne lieu à des enquêtes à la fois captivantes et hilara
 ##### Peu à la mode aujourd’hui, mais toujours aussi géniale !
 *How I Met Your Mother* est une série qui ne fait peut-être plus autant parler d’elle, mais elle reste un vrai bijou. Les aventures de Ted, Robin, Barney, Marshall et Lily mêlent humour, émotions et situations absurdes dans un New York à la fois réaliste et charmant. Chaque épisode offre des dialogues mémorables, des moments hilarants et parfois touchants, prouvant que cette comédie a su traverser le temps avec brio.
 
-###### Écrit par Emi_live
+###### Écrit par Emi_live ✒️
 ---
 
 ## Agents of S.H.I.E.L.D.
@@ -48,7 +48,7 @@ Chaque saison se réinvente, tout en restant fidèle à son ADN : suspense, acti
 
 Enfin, la réalisation, les effets spéciaux et la bande-son sont impeccables et contribuent à créer une ambiance immersive qui rivalise avec certaines productions cinématographiques. Pour les fans de Marvel comme pour les novices, Agent of S.H.I.E.L.D. est un incontournable qui mérite amplement un 5/5.
 
-###### Écrit par marvelov 
+###### Écrit par marvelov ✒️
 
 ---
 *© 2025 CinéScope - Fait avec passion pour les cinéphiles* 🍿
