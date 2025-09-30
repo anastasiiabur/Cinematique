@@ -2,7 +2,15 @@
 | [🏠 Accueil](index.md) | [🎥 Films](film.md) | [📺 Séries](série.md) | [🎞️ Courts-métrages](court-métrage.md) |
 |:---:|:---:|:---:|:---:|
 ---
-
+<table border="1" style="border: 1px solid red; border-collapse: collapse; ">
+    <tr>
+      <td style="border: 1px solid red;"><a href="index.md">🏠 Accueil</a></td>
+      <td style="border: 1px solid red;"><a href="film.md">🎥 Films</a></td>
+      <td style="border: 1px solid red;"><a href="série.md">📺 Séries</a></td>
+      <td style="border: 1px solid red;"><a href="court-métrage.md">🎞️ Courts-métrages</a></td>
+    </tr>
+  </table>
+  
 # Les films 🎥
 
 ## Interstellar
