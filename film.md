@@ -41,7 +41,7 @@ Ce que j'ai aimé:
 
 ## Léon
 ### ★★★☆☆ - Pas mauvais !
-<img src="images/Leon.webp" alt="Léon" width="250px">
+<img src="images/Léon.webp" alt="Léon" width="250px">
 
 ##### Touchant !
 Un film culte de Luc Besson, à la fois atypique et profondément touchant. La relation entre Léon, tueur à gages solitaire incarné par Jean Reno, et Mathilda, jouée par une jeune Natalie Portman éblouissante, est le cœur du récit. On est bouleversé par cette tendresse inattendue entre deux êtres abîmés par la vie.
