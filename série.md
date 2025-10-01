@@ -1,4 +1,5 @@
 # 🎬 CinéScope
+
 <table border="1" style="border-collapse: collapse; border-color: transparent;">
     <tr>
       <td style="border: 1px solid #d1d9e0;"><a href="index.md" style="color: black">🏠 Accueil</a></td>
