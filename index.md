@@ -2,7 +2,7 @@
 
 <table border="1" style="border-collapse: collapse; border-color: transparent;">
     <tr>
-      <td style="border: 1px solid #d1d9e0;"><a href="index" style="color: black">🏠 Accueil</a></td>
+      <td style="border: 1px solid #d1d9e0;"><a href="index.html" style="color: black">🏠 Accueil</a></td>
       <td style="border: 1px solid #d1d9e0;"><a href="film.html" style="color: black">🎥 Films</a></td>
       <td style="border: 1px solid #d1d9e0;"><a href="série.html" style="color: black">📺 Séries</a></td>
       <td style="border: 1px solid #d1d9e0;"><a href="court-métrage.html" style="color: black">🎞️ Courts-métrages</a></td>
